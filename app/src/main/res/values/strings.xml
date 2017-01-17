@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Build it Bigger</string>
+    <string name="instructions">Press the button for a delicious joke!</string>
+    <string name="button_java_text">Show Joke Toast - Java Library</string>
+    <string name="button_android_text">Show Joke Activity - Android Library</string>
+    <string name="button_remote_joke_text">Load Async Joke</string>
+    <string name="joke_1">I changed my password to \"incorrect\", so whenever I forget what it is the computer will say \"Your password is incorrect\".</string>
+    <string name="joke_2">Failure is not an option—it comes bundled with the software.</string>
+    <string name="joke_3">Are you a computer whiz? it seems you know how to turn my software into hardware.</string>
+    <string name="joke_4">Are you a keyboard? Because you\'re my type!</string>
+    <string name="joke_5">I love the F5 key. It\'s just so refreshing.</string>
+    <string name="action_settings">Settings</string>
+    <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+</resources>
